@@ -1,0 +1,301 @@
+product_id,seller_id,car_id,year,price,color,milage,date_posted,detail
+product-1,user-91,car-19,2006,205000000,black,,2021-12-23,need some attention
+product-2,user-28,car-25,2018,202000000,black,50000.0,2022-07-23,need some attention
+product-3,user-72,car-15,2015,100000000,black,112000.0,2021-06-21,never involved in an accident
+product-4,user-79,car-4,2021,198000000,blue,20000.0,2022-03-11,good
+product-5,user-16,car-9,2005,210000000,grey,,2022-04-02,ready to go
+product-6,user-40,car-1,2009,217000000,grey,,2022-06-22,well maintained
+product-7,user-84,car-22,2015,174000000,red,120000.0,2022-03-30,need some attention
+product-8,user-47,car-5,2007,227000000,black,,2022-06-04,
+product-9,user-11,car-12,2017,144000000,white,90000.0,2021-09-21,
+product-10,user-32,car-26,2017,179000000,yellow,90000.0,2021-09-29,never involved in an accident
+product-11,user-46,car-10,2013,171000000,grey,120000.0,2022-06-25,well maintained
+product-12,user-26,car-10,2007,158000000,red,,2021-03-12,ready to go
+product-13,user-97,car-19,2005,121000000,black,,2021-11-10,need some attention
+product-14,user-87,car-26,2008,243000000,red,,2021-08-28,never involved in an accident
+product-15,user-67,car-23,2019,238000000,grey,60000.0,2021-05-14,well maintained
+product-16,user-25,car-23,2006,168000000,,,2021-04-14,ready to go
+product-17,user-29,car-7,2021,133000000,blue,24000.0,2022-03-12,good
+product-18,user-39,car-23,2013,123000000,white,110000.0,2022-01-06,
+product-19,user-60,car-17,2009,166000000,blue,,2021-11-11,
+product-20,user-28,car-26,2013,190000000,yellow,120000.0,2021-10-25,well maintained
+product-21,user-10,car-19,2019,108000000,white,48000.0,2022-01-24,never involved in an accident
+product-22,user-30,car-24,2021,234000000,,22000.0,2022-04-12,well maintained
+product-23,user-82,car-21,2021,139000000,,18000.0,2021-01-16,need some attention
+product-24,user-11,car-8,2012,157000000,yellow,165000.0,2022-02-01,never involved in an accident
+product-25,user-39,car-25,2008,234000000,black,,2021-09-03,never involved in an accident
+product-26,user-30,car-18,2020,107000000,red,36000.0,2021-10-25,
+product-27,user-1,car-13,2008,145000000,blue,,2021-01-01,good
+product-28,user-83,car-21,2022,133000000,,12000.0,2022-01-01,ready to go
+product-29,user-41,car-15,2021,168000000,blue,22000.0,2021-03-30,never involved in an accident
+product-30,user-41,car-18,2021,246000000,blue,22000.0,2022-06-28,never involved in an accident
+product-31,user-97,car-3,2009,183000000,black,,2022-07-30,
+product-32,user-19,car-10,2010,250000000,black,156000.0,2021-02-13,never involved in an accident
+product-33,user-75,car-4,2015,185000000,red,88000.0,2021-07-31,never involved in an accident
+product-34,user-20,car-24,2017,208000000,blue,84000.0,2021-07-21,
+product-35,user-42,car-13,2009,135000000,grey,,2021-08-22,need some attention
+product-36,user-37,car-21,2019,216000000,,60000.0,2021-06-23,need some attention
+product-37,user-93,car-17,2022,213000000,yellow,12000.0,2021-03-13,well maintained
+product-38,user-67,car-16,2014,174000000,yellow,126000.0,2022-07-14,ready to go
+product-39,user-76,car-3,2020,150000000,white,33000.0,2021-11-15,good
+product-40,user-84,car-24,2007,139000000,yellow,,2022-07-26,well maintained
+product-41,user-10,car-26,2019,187000000,white,44000.0,2021-01-23,need some attention
+product-42,user-28,car-4,2014,249000000,blue,117000.0,2021-03-17,ready to go
+product-43,user-44,car-15,2018,143000000,black,75000.0,2021-06-29,ready to go
+product-44,user-64,car-25,2005,176000000,,,2021-12-09,ready to go
+product-45,user-11,car-22,2013,107000000,red,130000.0,2021-04-23,need some attention
+product-46,user-20,car-16,2015,194000000,blue,104000.0,2021-08-12,well maintained
+product-47,user-88,car-16,2009,235000000,,,2021-06-24,ready to go
+product-48,user-99,car-21,2017,157000000,yellow,72000.0,2022-04-09,well maintained
+product-49,user-79,car-20,2016,141000000,white,77000.0,2022-04-01,good
+product-50,user-4,car-14,2017,233000000,,60000.0,2022-01-30,need some attention
+product-51,user-86,car-23,2005,127000000,white,,2022-04-17,well maintained
+product-52,user-13,car-20,2006,175000000,black,,2021-04-11,ready to go
+product-53,user-4,car-23,2022,209000000,white,9000.0,2022-01-30,good
+product-54,user-5,car-8,2014,114000000,black,90000.0,2022-06-19,ready to go
+product-55,user-94,car-8,2017,162000000,yellow,66000.0,2021-06-13,well maintained
+product-56,user-28,car-10,2009,191000000,,,2021-06-05,never involved in an accident
+product-57,user-97,car-6,2021,125000000,red,20000.0,2022-06-19,never involved in an accident
+product-58,user-35,car-22,2017,111000000,blue,60000.0,2022-06-22,never involved in an accident
+product-59,user-36,car-13,2019,130000000,white,48000.0,2021-07-09,need some attention
+product-60,user-78,car-16,2016,208000000,grey,98000.0,2021-06-18,well maintained
+product-61,user-19,car-12,2021,242000000,grey,20000.0,2022-07-25,well maintained
+product-62,user-83,car-14,2012,194000000,,132000.0,2022-01-17,ready to go
+product-63,user-87,car-10,2020,227000000,yellow,33000.0,2021-01-28,good
+product-64,user-37,car-3,2017,122000000,red,90000.0,2021-04-05,
+product-65,user-95,car-24,2007,247000000,black,,2021-02-28,ready to go
+product-66,user-95,car-4,2017,176000000,grey,78000.0,2021-10-21,good
+product-67,user-21,car-26,2019,219000000,grey,48000.0,2021-04-13,good
+product-68,user-67,car-24,2021,126000000,red,18000.0,2022-04-29,never involved in an accident
+product-69,user-88,car-6,2010,115000000,yellow,130000.0,2022-02-28,
+product-70,user-51,car-14,2021,129000000,grey,22000.0,2021-07-22,well maintained
+product-71,user-49,car-6,2021,122000000,red,22000.0,2021-08-03,never involved in an accident
+product-72,user-78,car-2,2007,133000000,black,,2022-05-06,well maintained
+product-73,user-97,car-22,2018,162000000,grey,55000.0,2022-03-09,
+product-74,user-58,car-13,2010,217000000,white,156000.0,2021-02-27,never involved in an accident
+product-75,user-16,car-20,2005,172000000,blue,,2021-09-20,ready to go
+product-76,user-19,car-14,2011,160000000,yellow,156000.0,2022-07-23,ready to go
+product-77,user-50,car-10,2012,111000000,black,154000.0,2021-09-28,good
+product-78,user-89,car-5,2013,108000000,red,130000.0,2021-04-21,never involved in an accident
+product-79,user-88,car-11,2020,218000000,black,30000.0,2022-04-20,need some attention
+product-80,user-67,car-7,2019,177000000,red,52000.0,2021-05-19,
+product-81,user-72,car-21,2006,121000000,,,2022-06-24,
+product-82,user-30,car-19,2020,132000000,red,30000.0,2021-01-22,well maintained
+product-83,user-42,car-26,2015,226000000,blue,112000.0,2021-06-17,ready to go
+product-84,user-26,car-17,2015,181000000,grey,96000.0,2021-05-21,well maintained
+product-85,user-83,car-12,2011,100000000,black,180000.0,2022-05-17,never involved in an accident
+product-86,user-79,car-16,2016,145000000,grey,105000.0,2021-04-07,good
+product-87,user-86,car-16,2022,115000000,black,11000.0,2021-04-25,
+product-88,user-78,car-19,2018,114000000,grey,65000.0,2022-03-10,ready to go
+product-89,user-89,car-8,2019,250000000,blue,48000.0,2022-01-21,ready to go
+product-90,user-51,car-3,2009,156000000,grey,,2021-12-01,ready to go
+product-91,user-8,car-23,2008,141000000,grey,,2021-06-04,good
+product-92,user-15,car-10,2005,129000000,grey,,2021-09-08,need some attention
+product-93,user-73,car-6,2016,180000000,,70000.0,2022-03-26,
+product-94,user-32,car-17,2015,148000000,red,120000.0,2021-07-15,need some attention
+product-95,user-47,car-3,2014,178000000,white,117000.0,2022-04-12,good
+product-96,user-58,car-11,2017,226000000,grey,78000.0,2021-02-01,
+product-97,user-32,car-18,2015,249000000,red,88000.0,2021-05-21,
+product-98,user-26,car-8,2006,182000000,white,,2021-03-17,well maintained
+product-99,user-32,car-20,2016,207000000,yellow,98000.0,2022-04-02,good
+product-100,user-39,car-1,2022,195000000,white,9000.0,2021-07-31,well maintained
+product-101,user-83,car-16,2011,142000000,red,144000.0,2021-01-30,well maintained
+product-102,user-56,car-13,2005,240000000,blue,,2021-05-21,good
+product-103,user-73,car-15,2006,152000000,,,2021-03-18,
+product-104,user-97,car-4,2010,156000000,black,169000.0,2021-01-20,never involved in an accident
+product-105,user-84,car-17,2022,163000000,,11000.0,2022-04-18,never involved in an accident
+product-106,user-21,car-1,2019,149000000,blue,60000.0,2021-02-17,ready to go
+product-107,user-48,car-9,2006,186000000,white,,2021-07-14,ready to go
+product-108,user-75,car-7,2016,222000000,white,70000.0,2021-12-12,
+product-109,user-76,car-2,2021,101000000,red,18000.0,2021-06-11,need some attention
+product-110,user-60,car-25,2014,235000000,,126000.0,2022-01-25,well maintained
+product-111,user-19,car-15,2019,199000000,yellow,44000.0,2022-06-12,good
+product-112,user-75,car-17,2017,145000000,grey,72000.0,2021-09-29,need some attention
+product-113,user-71,car-2,2014,245000000,grey,108000.0,2022-04-18,need some attention
+product-114,user-1,car-24,2015,186000000,blue,112000.0,2022-05-30,ready to go
+product-115,user-83,car-25,2006,121000000,yellow,,2021-12-24,good
+product-116,user-37,car-3,2009,218000000,black,,2022-01-07,well maintained
+product-117,user-78,car-9,2008,216000000,black,,2021-01-27,never involved in an accident
+product-118,user-26,car-23,2007,222000000,red,,2022-05-11,need some attention
+product-119,user-67,car-23,2021,234000000,,22000.0,2022-04-22,ready to go
+product-120,user-75,car-7,2014,177000000,white,90000.0,2022-02-25,well maintained
+product-121,user-19,car-6,2008,209000000,black,,2021-06-03,well maintained
+product-122,user-48,car-5,2020,249000000,white,30000.0,2021-01-02,need some attention
+product-123,user-17,car-16,2015,179000000,grey,112000.0,2022-05-27,never involved in an accident
+product-124,user-64,car-10,2011,213000000,blue,156000.0,2022-01-31,never involved in an accident
+product-125,user-13,car-3,2016,110000000,red,98000.0,2021-03-13,ready to go
+product-126,user-47,car-12,2016,231000000,yellow,84000.0,2022-04-04,well maintained
+product-127,user-91,car-22,2013,196000000,grey,110000.0,2021-11-23,need some attention
+product-128,user-14,car-19,2008,157000000,red,,2022-03-13,need some attention
+product-129,user-71,car-16,2008,231000000,blue,,2021-01-01,
+product-130,user-86,car-21,2021,249000000,red,20000.0,2021-11-11,ready to go
+product-131,user-15,car-3,2011,173000000,blue,120000.0,2021-08-27,need some attention
+product-132,user-82,car-1,2018,215000000,,70000.0,2022-07-28,ready to go
+product-133,user-76,car-18,2014,222000000,red,99000.0,2021-05-10,good
+product-134,user-58,car-11,2020,116000000,red,27000.0,2022-05-19,never involved in an accident
+product-135,user-11,car-8,2017,155000000,blue,78000.0,2021-04-27,well maintained
+product-136,user-60,car-7,2013,125000000,black,120000.0,2021-06-28,never involved in an accident
+product-137,user-97,car-21,2005,129000000,,,2021-03-22,never involved in an accident
+product-138,user-39,car-18,2022,129000000,blue,12000.0,2021-05-01,good
+product-139,user-84,car-8,2019,139000000,black,48000.0,2022-06-01,good
+product-140,user-71,car-2,2005,247000000,grey,,2022-05-13,
+product-141,user-44,car-10,2010,182000000,yellow,143000.0,2021-06-17,well maintained
+product-142,user-89,car-9,2012,104000000,black,165000.0,2021-07-12,need some attention
+product-143,user-8,car-3,2015,110000000,black,112000.0,2021-12-09,ready to go
+product-144,user-73,car-10,2013,101000000,black,140000.0,2021-02-05,ready to go
+product-145,user-21,car-10,2021,231000000,grey,20000.0,2021-10-20,good
+product-146,user-97,car-9,2006,224000000,,,2022-07-16,good
+product-147,user-73,car-11,2006,186000000,,,2021-02-18,well maintained
+product-148,user-86,car-2,2006,167000000,blue,,2021-09-13,ready to go
+product-149,user-27,car-1,2008,226000000,black,,2021-03-01,need some attention
+product-150,user-79,car-13,2014,239000000,,90000.0,2021-04-06,need some attention
+product-151,user-90,car-25,2017,183000000,blue,78000.0,2021-08-25,good
+product-152,user-60,car-19,2019,239000000,black,44000.0,2021-12-02,well maintained
+product-153,user-90,car-18,2007,153000000,red,,2022-03-11,good
+product-154,user-18,car-13,2019,231000000,yellow,52000.0,2021-11-04,ready to go
+product-155,user-11,car-9,2016,208000000,blue,70000.0,2021-02-13,
+product-156,user-6,car-1,2007,119000000,,,2021-01-19,well maintained
+product-157,user-63,car-15,2014,127000000,grey,135000.0,2021-01-04,ready to go
+product-158,user-71,car-19,2016,191000000,red,70000.0,2022-05-07,never involved in an accident
+product-159,user-64,car-11,2015,161000000,red,88000.0,2021-04-15,need some attention
+product-160,user-51,car-9,2014,240000000,grey,99000.0,2022-04-17,need some attention
+product-161,user-75,car-17,2014,126000000,,108000.0,2021-06-25,well maintained
+product-162,user-76,car-17,2013,110000000,,100000.0,2021-01-04,need some attention
+product-163,user-71,car-20,2010,150000000,white,169000.0,2021-05-13,ready to go
+product-164,user-73,car-26,2007,119000000,grey,,2021-06-09,never involved in an accident
+product-165,user-29,car-3,2020,193000000,white,36000.0,2021-05-01,need some attention
+product-166,user-67,car-11,2007,160000000,yellow,,2021-01-01,well maintained
+product-167,user-42,car-2,2017,213000000,,84000.0,2022-03-03,good
+product-168,user-44,car-9,2010,230000000,,130000.0,2021-09-22,need some attention
+product-169,user-17,car-8,2015,128000000,white,120000.0,2021-10-02,need some attention
+product-170,user-92,car-14,2019,141000000,blue,48000.0,2021-05-15,ready to go
+product-171,user-60,car-24,2012,131000000,red,154000.0,2021-04-24,well maintained
+product-172,user-64,car-8,2013,124000000,,110000.0,2021-01-26,ready to go
+product-173,user-78,car-24,2008,109000000,grey,,2021-12-30,good
+product-174,user-27,car-20,2016,142000000,white,105000.0,2021-09-24,never involved in an accident
+product-175,user-82,car-14,2012,131000000,black,110000.0,2022-05-12,need some attention
+product-176,user-61,car-22,2012,111000000,red,165000.0,2021-08-13,never involved in an accident
+product-177,user-8,car-11,2021,249000000,red,22000.0,2021-02-22,need some attention
+product-178,user-76,car-24,2017,102000000,,90000.0,2021-06-26,never involved in an accident
+product-179,user-82,car-7,2016,178000000,grey,105000.0,2021-08-15,never involved in an accident
+product-180,user-79,car-10,2014,153000000,yellow,117000.0,2021-12-24,good
+product-181,user-17,car-21,2012,128000000,yellow,165000.0,2021-08-17,need some attention
+product-182,user-28,car-17,2013,133000000,white,100000.0,2021-09-24,well maintained
+product-183,user-76,car-10,2007,125000000,blue,,2021-01-07,need some attention
+product-184,user-4,car-19,2017,236000000,red,84000.0,2021-02-03,ready to go
+product-185,user-7,car-18,2021,138000000,red,24000.0,2021-11-20,ready to go
+product-186,user-27,car-6,2019,221000000,blue,52000.0,2021-01-15,
+product-187,user-90,car-25,2009,210000000,blue,,2021-02-20,never involved in an accident
+product-188,user-17,car-2,2014,172000000,black,117000.0,2021-02-06,well maintained
+product-189,user-64,car-20,2017,199000000,red,90000.0,2022-05-26,need some attention
+product-190,user-50,car-21,2015,132000000,white,104000.0,2021-01-12,never involved in an accident
+product-191,user-55,car-4,2008,184000000,grey,,2022-05-02,good
+product-192,user-27,car-16,2020,245000000,blue,30000.0,2021-06-27,ready to go
+product-193,user-42,car-13,2016,173000000,grey,98000.0,2022-03-07,good
+product-194,user-1,car-9,2012,186000000,black,143000.0,2021-10-25,ready to go
+product-195,user-56,car-16,2005,147000000,white,,2021-06-08,ready to go
+product-196,user-67,car-15,2015,243000000,blue,80000.0,2021-11-09,good
+product-197,user-93,car-1,2006,227000000,black,,2021-05-30,
+product-198,user-88,car-19,2005,202000000,red,,2022-02-25,ready to go
+product-199,user-18,car-17,2020,242000000,yellow,27000.0,2021-10-25,good
+product-200,user-10,car-7,2011,225000000,grey,132000.0,2022-01-20,
+product-201,user-25,car-4,2016,250000000,yellow,77000.0,2022-01-08,good
+product-202,user-98,car-24,2012,216000000,red,154000.0,2022-07-03,never involved in an accident
+product-203,user-55,car-2,2014,203000000,red,99000.0,2021-12-08,good
+product-204,user-87,car-19,2016,206000000,yellow,77000.0,2021-09-20,need some attention
+product-205,user-91,car-7,2009,241000000,yellow,,2021-11-18,good
+product-206,user-92,car-9,2019,142000000,blue,52000.0,2022-05-04,well maintained
+product-207,user-15,car-3,2020,244000000,yellow,36000.0,2022-02-14,well maintained
+product-208,user-52,car-4,2012,220000000,yellow,110000.0,2022-07-24,never involved in an accident
+product-209,user-35,car-21,2022,125000000,grey,11000.0,2022-06-27,
+product-210,user-36,car-9,2011,157000000,black,156000.0,2022-05-18,ready to go
+product-211,user-32,car-20,2016,114000000,blue,91000.0,2022-04-17,
+product-212,user-40,car-19,2019,208000000,blue,52000.0,2021-05-01,never involved in an accident
+product-213,user-61,car-14,2008,220000000,,,2022-07-12,need some attention
+product-214,user-76,car-25,2017,185000000,grey,90000.0,2021-11-04,need some attention
+product-215,user-40,car-12,2011,163000000,blue,156000.0,2021-05-18,
+product-216,user-14,car-5,2021,127000000,grey,18000.0,2021-10-25,never involved in an accident
+product-217,user-39,car-8,2017,214000000,grey,84000.0,2022-03-12,need some attention
+product-218,user-32,car-8,2015,141000000,black,96000.0,2022-06-05,never involved in an accident
+product-219,user-32,car-20,2012,219000000,,121000.0,2021-09-10,well maintained
+product-220,user-48,car-8,2022,245000000,blue,12000.0,2022-05-08,ready to go
+product-221,user-35,car-25,2015,193000000,,112000.0,2021-05-08,ready to go
+product-222,user-25,car-12,2017,197000000,black,90000.0,2021-08-28,never involved in an accident
+product-223,user-10,car-26,2022,234000000,white,9000.0,2021-05-12,well maintained
+product-224,user-5,car-2,2022,111000000,white,10000.0,2021-10-24,good
+product-225,user-93,car-14,2016,143000000,white,77000.0,2022-07-25,
+product-226,user-47,car-10,2014,168000000,grey,90000.0,2021-04-05,need some attention
+product-227,user-97,car-9,2010,114000000,,182000.0,2021-01-03,
+product-228,user-50,car-23,2018,190000000,red,55000.0,2021-04-11,
+product-229,user-55,car-20,2019,202000000,,44000.0,2021-04-26,well maintained
+product-230,user-86,car-6,2006,131000000,blue,,2022-01-06,
+product-231,user-21,car-2,2022,239000000,grey,9000.0,2022-04-26,well maintained
+product-232,user-60,car-18,2008,171000000,yellow,,2021-02-13,good
+product-233,user-13,car-4,2011,138000000,,132000.0,2022-04-30,ready to go
+product-234,user-64,car-25,2014,240000000,grey,99000.0,2021-07-13,good
+product-235,user-26,car-16,2022,174000000,grey,9000.0,2022-07-18,never involved in an accident
+product-236,user-86,car-13,2019,201000000,yellow,56000.0,2021-07-23,never involved in an accident
+product-237,user-47,car-10,2010,164000000,grey,182000.0,2022-02-22,need some attention
+product-238,user-58,car-23,2013,145000000,black,130000.0,2021-03-25,good
+product-239,user-48,car-25,2013,135000000,red,110000.0,2022-02-25,ready to go
+product-240,user-41,car-14,2014,208000000,blue,117000.0,2021-01-07,never involved in an accident
+product-241,user-92,car-26,2019,158000000,,48000.0,2021-08-14,well maintained
+product-242,user-95,car-25,2015,126000000,red,120000.0,2022-04-23,
+product-243,user-82,car-26,2007,189000000,,,2021-07-14,need some attention
+product-244,user-25,car-12,2019,169000000,white,44000.0,2021-05-29,need some attention
+product-245,user-90,car-6,2006,133000000,white,,2022-01-31,ready to go
+product-246,user-58,car-12,2010,228000000,grey,143000.0,2022-07-15,need some attention
+product-247,user-93,car-11,2013,168000000,black,120000.0,2021-09-13,ready to go
+product-248,user-15,car-10,2017,163000000,grey,78000.0,2021-01-21,ready to go
+product-249,user-17,car-2,2017,197000000,,90000.0,2022-04-19,ready to go
+product-250,user-76,car-20,2021,147000000,blue,22000.0,2021-03-27,good
+product-251,user-60,car-25,2014,224000000,black,90000.0,2021-03-01,ready to go
+product-252,user-26,car-21,2014,137000000,blue,135000.0,2022-04-19,need some attention
+product-253,user-5,car-16,2020,193000000,yellow,30000.0,2022-01-14,ready to go
+product-254,user-87,car-1,2014,231000000,,90000.0,2022-05-11,good
+product-255,user-49,car-9,2022,247000000,yellow,9000.0,2021-04-10,good
+product-256,user-93,car-6,2008,225000000,,,2021-07-16,good
+product-257,user-87,car-14,2014,242000000,red,108000.0,2022-07-18,well maintained
+product-258,user-93,car-22,2019,155000000,blue,48000.0,2021-10-01,never involved in an accident
+product-259,user-75,car-14,2017,204000000,grey,78000.0,2021-09-21,ready to go
+product-260,user-64,car-22,2010,100000000,white,169000.0,2022-02-07,
+product-261,user-46,car-8,2015,140000000,grey,104000.0,2022-04-26,well maintained
+product-262,user-28,car-11,2013,156000000,yellow,150000.0,2021-12-03,need some attention
+product-263,user-8,car-6,2005,189000000,yellow,,2022-02-16,need some attention
+product-264,user-46,car-5,2012,164000000,,121000.0,2021-11-21,well maintained
+product-265,user-20,car-1,2009,165000000,blue,,2022-04-22,need some attention
+product-266,user-82,car-10,2009,189000000,yellow,,2021-04-01,need some attention
+product-267,user-90,car-21,2006,229000000,black,,2021-12-19,ready to go
+product-268,user-40,car-23,2018,232000000,white,60000.0,2021-04-22,well maintained
+product-269,user-73,car-18,2021,234000000,red,22000.0,2021-02-17,need some attention
+product-270,user-87,car-17,2007,197000000,black,,2022-04-30,need some attention
+product-271,user-49,car-19,2006,189000000,blue,,2022-02-11,need some attention
+product-272,user-14,car-7,2007,184000000,grey,,2022-03-11,need some attention
+product-273,user-14,car-20,2019,210000000,blue,52000.0,2022-07-26,never involved in an accident
+product-274,user-36,car-24,2011,170000000,white,168000.0,2021-11-25,well maintained
+product-275,user-49,car-20,2016,205000000,black,98000.0,2021-10-20,good
+product-276,user-52,car-24,2010,113000000,grey,169000.0,2022-02-07,never involved in an accident
+product-277,user-44,car-6,2021,146000000,white,24000.0,2021-10-23,never involved in an accident
+product-278,user-71,car-5,2013,171000000,white,100000.0,2021-12-14,never involved in an accident
+product-279,user-89,car-7,2009,195000000,red,,2021-01-28,well maintained
+product-280,user-46,car-17,2008,248000000,grey,,2022-01-16,good
+product-281,user-73,car-12,2014,191000000,blue,90000.0,2022-04-11,need some attention
+product-282,user-5,car-24,2009,130000000,,,2022-01-13,
+product-283,user-13,car-22,2022,241000000,blue,12000.0,2022-04-02,good
+product-284,user-78,car-17,2019,156000000,blue,56000.0,2021-07-28,well maintained
+product-285,user-18,car-9,2017,189000000,blue,78000.0,2021-03-15,never involved in an accident
+product-286,user-89,car-17,2018,220000000,black,50000.0,2021-06-09,good
+product-287,user-47,car-15,2022,162000000,,9000.0,2021-09-04,well maintained
+product-288,user-36,car-15,2006,124000000,black,,2022-04-07,good
+product-289,user-36,car-11,2008,117000000,blue,,2021-04-01,never involved in an accident
+product-290,user-42,car-13,2009,109000000,grey,,2022-04-13,well maintained
+product-291,user-50,car-24,2008,249000000,red,,2021-08-10,never involved in an accident
+product-292,user-4,car-14,2011,178000000,blue,156000.0,2022-06-13,never involved in an accident
+product-293,user-88,car-3,2008,173000000,white,,2022-06-18,well maintained
+product-294,user-87,car-4,2022,237000000,white,10000.0,2021-02-28,
+product-295,user-5,car-4,2014,215000000,blue,126000.0,2022-04-13,never involved in an accident
+product-296,user-60,car-4,2021,111000000,grey,20000.0,2021-03-25,need some attention
+product-297,user-46,car-19,2020,111000000,white,27000.0,2021-05-24,
+product-298,user-11,car-16,2017,117000000,red,90000.0,2021-06-25,need some attention
+product-299,user-99,car-12,2010,225000000,,169000.0,2021-02-07,ready to go
+product-300,user-4,car-24,2013,191000000,black,120000.0,2021-08-04,need some attention

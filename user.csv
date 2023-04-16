@@ -1,0 +1,101 @@
+user_id,first_name,last_name,city,email,phone_number,buyer,seller
+user-1,Arta,Thamrin,3273,arta.thamrin@yahoo.com,0869060636,False,True
+user-2,Cakrabirawa,Sirait,5171,cakrabirawa.sirait@hotmail.com,+62-867-225-4994,True,False
+user-3,Samsul,Sinaga,3573,samsul.sinaga@gmail.com,+62 (557) 481 8022,True,False
+user-4,Oni,Kuswoyo,3172,oni.kuswoyo@yahoo.com,0864634715,False,True
+user-5,Gamani,Wibowo,3172,gamani.wibowo@gmail.com,085 778 1958,False,True
+user-6,Zelaya,Laksita,3273,zelaya.laksita@gmail.com,(0095) 838-3534,True,True
+user-7,Elma,Hartati,3173,elma.hartati@yahoo.com,+62-390-872-1576,False,True
+user-8,Karsa,Nugroho,3175,karsa.nugroho@hotmail.com,+62-39-490-0170,True,True
+user-9,Kezia,Puspita,3171,kezia.puspita@gmail.com,(045) 174-2618,True,False
+user-10,Uda,Haryanto,1371,uda.haryanto@gmail.com,+62 (407) 969-9324,False,True
+user-11,Fitria,Hakim,3175,fitria.hakim@hotmail.com,+62 (089) 581-5177,True,True
+user-12,Jail,Saptono,3175,jail.saptono@gmail.com,(0166) 721 1975,True,False
+user-13,Wulan,Andriani,3174,wulan.andriani@hotmail.com,+62 (0675) 254 2284,True,True
+user-14,Iriana,Adriansyah,3573,iriana.adriansyah@hotmail.com,(057) 098 2387,True,True
+user-15,Danuja,Pradana,6471,danuja.pradana@yahoo.com,089 557 0777,True,True
+user-16,Daruna,Sihotang,3174,daruna.sihotang@yahoo.com,+62 (59) 746-9644,True,True
+user-17,Wahyu,Melani,3471,wahyu.melani@gmail.com,0881319183,False,True
+user-18,Mustofa,Halim,5171,mustofa.halim@yahoo.com,(0599) 684 6950,False,True
+user-19,Yahya,Uyainah,3172,yahya.uyainah@gmail.com,(0651) 333-0387,True,True
+user-20,Surya,Anggraini,7371,surya.anggraini@hotmail.com,+62 (053) 574-1666,False,True
+user-21,Darsirah,Adriansyah,1371,darsirah.adriansyah@yahoo.com,+62 (609) 584 8680,True,True
+user-22,Heryanto,Melani,3174,heryanto.melani@hotmail.com,087 993 6962,True,False
+user-23,Ibun,Mardhiyah,3273,ibun.mardhiyah@gmail.com,+62 (939) 779 9637,True,False
+user-24,Leo,Sirait,6471,leo.sirait@gmail.com,+62 (846) 522 3612,True,False
+user-25,Yessi,Adriansyah,3273,yessi.adriansyah@yahoo.com,+62 (49) 991-0541,False,True
+user-26,Najwa,Sudiati,6472,najwa.sudiati@gmail.com,+62 (0506) 816 2866,False,True
+user-27,Kurnia,Uyainah,7371,kurnia.uyainah@hotmail.com,(013) 950 1534,True,True
+user-28,Prayoga,Ramadan,3171,prayoga.ramadan@yahoo.com,+62 (384) 574 0114,False,True
+user-29,Radit,Suwarno,3171,radit.suwarno@gmail.com,0828228219,True,True
+user-30,Purwa,Saragih,3573,purwa.saragih@yahoo.com,+62 (0071) 893-5369,False,True
+user-31,Ophelia,Putra,3174,ophelia.putra@gmail.com,+62 (03) 837 3063,True,False
+user-32,Vino,Nugroho,3174,vino.nugroho@hotmail.com,(0664) 398 7513,False,True
+user-33,Galih,Maulana,3273,galih.maulana@gmail.com,+62 (469) 630-8221,True,False
+user-34,Raina,Hakim,6472,raina.hakim@yahoo.com,+62-57-962-6694,True,False
+user-35,Eko,Pratama,5171,eko.pratama@yahoo.com,(077) 170-5183,True,True
+user-36,Jane,Laksmiwati,3172,jane.laksmiwati@yahoo.com,+62 (087) 869-9981,False,True
+user-37,Margana,Kuswoyo,3573,margana.kuswoyo@hotmail.com,+62 (0622) 782-3232,False,True
+user-38,Atma,Wijaya,3174,atma.wijaya@gmail.com,+62 (75) 494-5793,True,False
+user-39,Winda,Wijayanti,3173,winda.wijayanti@gmail.com,080 725 6707,True,True
+user-40,Diana,Tamba,3471,diana.tamba@hotmail.com,(084) 522 5192,True,True
+user-41,Pranawa,Prastuti,1371,pranawa.prastuti@yahoo.com,+62 (003) 800-9368,False,True
+user-42,Cindy,Nashiruddin,3175,cindy.nashiruddin@yahoo.com,(0188) 819-8419,False,True
+user-43,Safina,Melani,3175,safina.melani@yahoo.com,+62-312-624-7826,True,False
+user-44,Ayu,Prastuti,3273,ayu.prastuti@hotmail.com,(085) 879 0114,False,True
+user-45,Kajen,Wastuti,7371,kajen.wastuti@hotmail.com,(019) 371 6847,True,False
+user-46,Lembah,Pertiwi,3173,lembah.pertiwi@gmail.com,(0112) 724-5604,False,True
+user-47,Kuncara,Habibi,3171,kuncara.habibi@yahoo.com,+62 (523) 710 4746,False,True
+user-48,Pia,Waskita,1375,pia.waskita@yahoo.com,0886501913,False,True
+user-49,Nasab,Zulaika,3573,nasab.zulaika@gmail.com,(0474) 749 6248,True,True
+user-50,Soleh,Hutapea,1371,soleh.hutapea@hotmail.com,0801199519,False,True
+user-51,Teddy,Rajasa,3173,teddy.rajasa@yahoo.com,+62 (877) 776 3583,False,True
+user-52,Sakti,Usamah,3171,sakti.usamah@gmail.com,+62-0472-350-4839,False,True
+user-53,Ifa,Firgantoro,3471,ifa.firgantoro@gmail.com,+62 (080) 056 7012,True,False
+user-54,Darijan,Kusumo,6472,darijan.kusumo@hotmail.com,+62-021-991-4349,True,False
+user-55,Tirtayasa,Aryani,3573,tirtayasa.aryani@yahoo.com,0831865974,True,True
+user-56,Kania,Marbun,3273,kania.marbun@hotmail.com,(007) 679-2222,False,True
+user-57,Emong,Pranowo,3578,emong.pranowo@gmail.com,+62 (98) 351-1857,True,False
+user-58,Gatra,Simbolon,3578,gatra.simbolon@hotmail.com,+62 (41) 949 9321,False,True
+user-59,Lulut,Mahendra,3175,lulut.mahendra@gmail.com,+62 (865) 116-6422,False,True
+user-60,Banawi,Yuliarti,3573,banawi.yuliarti@hotmail.com,+62-35-412-9151,False,True
+user-61,Drajat,Nainggolan,3174,drajat.nainggolan@yahoo.com,+62 (093) 298 4589,False,True
+user-62,Lantar,Ramadan,1375,lantar.ramadan@hotmail.com,+62 (076) 005 3745,True,False
+user-63,Tri,Astuti,3471,tri.astuti@hotmail.com,+62-22-429-5347,False,True
+user-64,Saadat,Lailasari,1375,saadat.lailasari@yahoo.com,+62-619-043-6621,False,True
+user-65,Karsana,Fujiati,5171,karsana.fujiati@hotmail.com,(0017) 826 6159,True,False
+user-66,Lukman,Nuraini,6471,lukman.nuraini@hotmail.com,+62-046-292-6275,True,False
+user-67,Agus,Haryanto,3174,agus.haryanto@gmail.com,+62 (046) 010 9996,True,True
+user-68,Dono,Novitasari,3171,dono.novitasari@yahoo.com,+62 (0885) 739-8982,True,False
+user-69,Gabriella,Manullang,3172,gabriella.manullang@gmail.com,(004) 546 4874,True,False
+user-70,Kiandra,Firmansyah,3573,kiandra.firmansyah@yahoo.com,+62 (20) 698-2503,True,False
+user-71,Abyasa,Lazuardi,3175,abyasa.lazuardi@yahoo.com,+62 (862) 914 2092,False,True
+user-72,Rahayu,Anggraini,3174,rahayu.anggraini@gmail.com,+62-075-372-3485,False,True
+user-73,Prabowo,Wahyudin,3273,prabowo.wahyudin@yahoo.com,+62 (15) 128 0780,False,True
+user-74,Hadi,Pangestu,3471,hadi.pangestu@yahoo.com,(0454) 786 3994,True,False
+user-75,Gara,Anggraini,7371,gara.anggraini@yahoo.com,+62 (20) 230-9252,False,True
+user-76,Endah,Gunawan,7371,endah.gunawan@hotmail.com,+62 (00) 056-2484,False,True
+user-77,Wardi,Marbun,6472,wardi.marbun@hotmail.com,+62-21-745-6318,True,False
+user-78,Estiono,Novitasari,3175,estiono.novitasari@hotmail.com,+62-60-898-8435,False,True
+user-79,Reksa,Winarno,3273,reksa.winarno@hotmail.com,+62 (0106) 124 7708,False,True
+user-80,Rizki,Usamah,3471,rizki.usamah@gmail.com,+62-199-071-5195,True,False
+user-81,Kasiran,Agustina,3175,kasiran.agustina@yahoo.com,+62-76-689-2065,True,False
+user-82,Anom,Wibowo,6472,anom.wibowo@hotmail.com,(0720) 542 1739,False,True
+user-83,Luis,Dabukke,3471,luis.dabukke@gmail.com,+62 (0342) 969-4160,True,True
+user-84,Yusuf,Rahimah,7371,yusuf.rahimah@yahoo.com,089 974 3338,False,True
+user-85,Pranata,Habibi,1371,pranata.habibi@gmail.com,+62-0914-850-0765,True,False
+user-86,Tiara,Aryani,1371,tiara.aryani@gmail.com,+62 (022) 073 6471,False,True
+user-87,Rina,Handayani,3174,rina.handayani@yahoo.com,+62 (030) 523 3747,True,True
+user-88,Gilda,Hartati,3172,gilda.hartati@yahoo.com,+62 (058) 657-2731,False,True
+user-89,Gilang,Maryati,3174,gilang.maryati@yahoo.com,+62 (0323) 072-5368,False,True
+user-90,Jais,Permadi,6471,jais.permadi@yahoo.com,(0622) 463-6019,True,True
+user-91,Jarwadi,Lazuardi,3173,jarwadi.lazuardi@gmail.com,+62 (03) 188-5656,True,True
+user-92,Ozy,Situmorang,6471,ozy.situmorang@hotmail.com,(0964) 116 5241,True,True
+user-93,Diah,Firmansyah,5171,diah.firmansyah@yahoo.com,+62-527-941-6365,False,True
+user-94,Emin,Maryadi,1371,emin.maryadi@yahoo.com,(0670) 313 2478,True,True
+user-95,Ikin,Siregar,3172,ikin.siregar@hotmail.com,+62 (068) 734-4365,True,True
+user-96,Kasim,Saefullah,3171,kasim.saefullah@hotmail.com,(0955) 254-5212,True,False
+user-97,Lili,Sudiati,1375,lili.sudiati@gmail.com,+62-011-903-9327,False,True
+user-98,Laila,Dabukke,3173,laila.dabukke@gmail.com,+62 (006) 962-0727,True,True
+user-99,Rahman,Sirait,1371,rahman.sirait@yahoo.com,089 155 0846,False,True
+user-100,Edward,Sihombing,3172,edward.sihombing@gmail.com,+62 (0318) 174 8560,True,False
